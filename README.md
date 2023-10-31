@@ -1,4 +1,6 @@
-# The1and0-L10.github.io
+# Python
+
+# SQL
 
 this will be the readme 
 
